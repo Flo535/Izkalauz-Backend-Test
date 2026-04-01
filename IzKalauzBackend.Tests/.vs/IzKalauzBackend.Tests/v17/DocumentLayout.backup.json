@@ -1,0 +1,96 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Home\\Desktop\\V\u00E9gleges Project\\IzKalauzBackend.Tests\\IzKalauzBackend.Tests\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{48410B1C-364D-4D67-A896-5093C0C835FB}|IzKalauzBackend.Tests.csproj|c:\\users\\home\\desktop\\v\u00E9gleges project\\izkalauzbackend.tests\\izkalauzbackend.tests\\favoritescontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48410B1C-364D-4D67-A896-5093C0C835FB}|IzKalauzBackend.Tests.csproj|solutionrelative:favoritescontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48410B1C-364D-4D67-A896-5093C0C835FB}|IzKalauzBackend.Tests.csproj|c:\\users\\home\\desktop\\v\u00E9gleges project\\izkalauzbackend.tests\\izkalauzbackend.tests\\izkalauzbackend.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{48410B1C-364D-4D67-A896-5093C0C835FB}|IzKalauzBackend.Tests.csproj|solutionrelative:izkalauzbackend.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48410B1C-364D-4D67-A896-5093C0C835FB}|IzKalauzBackend.Tests.csproj|c:\\users\\home\\desktop\\v\u00E9gleges project\\izkalauzbackend.tests\\izkalauzbackend.tests\\mockextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48410B1C-364D-4D67-A896-5093C0C835FB}|IzKalauzBackend.Tests.csproj|solutionrelative:mockextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48410B1C-364D-4D67-A896-5093C0C835FB}|IzKalauzBackend.Tests.csproj|c:\\users\\home\\desktop\\v\u00E9gleges project\\izkalauzbackend.tests\\izkalauzbackend.tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48410B1C-364D-4D67-A896-5093C0C835FB}|IzKalauzBackend.Tests.csproj|solutionrelative:unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FavoritesControllerTests.cs",
+              "DocumentMoniker": "C:\\Users\\Home\\Desktop\\V\u00E9gleges Project\\IzKalauzBackend.Tests\\IzKalauzBackend.Tests\\FavoritesControllerTests.cs",
+              "RelativeDocumentMoniker": "FavoritesControllerTests.cs",
+              "ToolTip": "C:\\Users\\Home\\Desktop\\V\u00E9gleges Project\\IzKalauzBackend.Tests\\IzKalauzBackend.Tests\\FavoritesControllerTests.cs",
+              "RelativeToolTip": "FavoritesControllerTests.cs",
+              "ViewState": "AgIAAH8AAAAAAAAAAAAqwJAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-01T08:25:10.832Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IzKalauzBackend.Tests.csproj",
+              "DocumentMoniker": "C:\\Users\\Home\\Desktop\\V\u00E9gleges Project\\IzKalauzBackend.Tests\\IzKalauzBackend.Tests\\IzKalauzBackend.Tests.csproj",
+              "RelativeDocumentMoniker": "IzKalauzBackend.Tests.csproj",
+              "ToolTip": "C:\\Users\\Home\\Desktop\\V\u00E9gleges Project\\IzKalauzBackend.Tests\\IzKalauzBackend.Tests\\IzKalauzBackend.Tests.csproj",
+              "RelativeToolTip": "IzKalauzBackend.Tests.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-31T13:48:19.709Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MockExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\Home\\Desktop\\V\u00E9gleges Project\\IzKalauzBackend.Tests\\IzKalauzBackend.Tests\\MockExtensions.cs",
+              "RelativeDocumentMoniker": "MockExtensions.cs",
+              "ToolTip": "C:\\Users\\Home\\Desktop\\V\u00E9gleges Project\\IzKalauzBackend.Tests\\IzKalauzBackend.Tests\\MockExtensions.cs",
+              "RelativeToolTip": "MockExtensions.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-31T13:49:53.305Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\Home\\Desktop\\V\u00E9gleges Project\\IzKalauzBackend.Tests\\IzKalauzBackend.Tests\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "UnitTest1.cs",
+              "ToolTip": "C:\\Users\\Home\\Desktop\\V\u00E9gleges Project\\IzKalauzBackend.Tests\\IzKalauzBackend.Tests\\UnitTest1.cs",
+              "RelativeToolTip": "UnitTest1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-31T13:37:23.234Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
